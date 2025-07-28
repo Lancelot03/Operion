@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+google-generativeai  # <-- Changed from openai
+python-dotenv
+pydantic
